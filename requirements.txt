@@ -1,0 +1,31 @@
+# Core packages
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+
+# MongoDB connector
+pymongo[srv]==4.6.3
+
+# YouTube API
+google-api-python-client==2.127.0
+
+# Sentiment Analysis
+textblob==0.17.1
+transformers==4.41.1
+torch==2.3.0
+emoji==2.10.1
+nltk==3.8.1
+
+# Plotting and visualization
+plotly==5.21.0
+matplotlib==3.8.4
+
+# Data cleaning and preprocessing
+regex==2024.4.16
+tqdm==4.66.4
+
+# Apache Spark (for local or Colab usage)
+pyspark==3.5.1
+
+# Optional: For Colab secrets management
+python-dotenv==1.0.1
