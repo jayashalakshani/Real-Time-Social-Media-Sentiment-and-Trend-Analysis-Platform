@@ -194,8 +194,8 @@ Here, using Streamlit, create the web app and use Tableau to create a dashboard 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jayashalakshani/Mastodon-Youtube-Sentiment-Trend-Analyzer.git
-   cd Mastodon-Youtube-Sentiment-Trend-Analyzer
+   git clone https://github.com/jayashalakshani/Real-Time-Social-Media-Sentiment-and-Trend-Analysis-Platform.git
+   cd Real-Time-Social-Media-Sentiment-and-Trend-Analysis-Platform
    ```
 
 2. Install dependencies:
